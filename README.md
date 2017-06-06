@@ -1,5 +1,6 @@
 # Nitro Stream
-Please use [KitKat](https://gbatemp.net/threads/release-kit-kat-the-ultimate-3ds-toolkit-pc-client.453015/) instead. This is only for video streaming that needs Memory Patch on 11.4 and NTR CFW 3.5.
+
+This is only for video streaming for games that need memory patch on FW 11.4. 
 
 Allows the user to easily initiate a connection to NTRViewer for NTR CFW on the Nintendo 3DS
 Built on the NTRDebugger by Cell99 - https://github.com/44670/NTRClient
@@ -7,7 +8,9 @@ Built on the NTRDebugger by Cell99 - https://github.com/44670/NTRClient
 ![NitroStreamScreenshot](https://i.imgur.com/1mRjP4E.jpg)
 
 # Download
-https://github.com/JakeHL/NitroStream/releases/
+3DS FW <= 11.3 https://github.com/JakeHL/NitroStream/releases/
+
+3DS FW = 11.4 https://github.com/IngeniousDefault/NitroStream-NTR-CFW-3.5/releases/tag/11.4
 
 # Dependencies
 Requires octokit for the update notifications, this is now shipped with the application.
